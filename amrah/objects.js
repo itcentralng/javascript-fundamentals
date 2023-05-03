@@ -1,0 +1,1 @@
+people = {name: "amrah", friend: "jamil"}
