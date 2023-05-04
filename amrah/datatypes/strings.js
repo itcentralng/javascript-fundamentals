@@ -16,10 +16,12 @@
 //1
 
 name = "amrah";
-age = "30";
+age = "30"
 color = "green";
 height = "5'5"
 school = "naub"
+
+
 
 //2
 
@@ -37,6 +39,9 @@ console.log(name.replace('a', 'x'))
 
 //6
 console.log(name.replaceAll('a', 'x'))
+
+
+
 
 
 
