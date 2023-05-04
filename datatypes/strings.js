@@ -25,6 +25,9 @@ console.log(FirstName.replaceAll('a', 'o'))
 console.log(FirstName.replace('Atinuke', 'Balaraba'))
 console.log(FirstName.replace('at', 'u'))
 
+console.log(FirstName.toUpperCase())
+console.log(FirstName.toLowerCase())
+
 // Class Work
 
 // 1. Create 5 string examples
