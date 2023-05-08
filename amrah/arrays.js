@@ -1,4 +1,4 @@
-//name = [amrah, jamil]
+name = ["amrah", "jamil"]
 
 // Class Work
 // 1. Write 5 example arrays. For each array:
@@ -63,21 +63,15 @@
 
      // d.
  
-     items.pop(true)
-     console.log(items)
+     console.log(items.pop())
     
-
-     food.pop("rice")
-     console.log(food)
-    
-     num.pop(2)
-     console.log(num)
-    
-     colors.pop("black")
-     console.log(colors)
-    
-     anything.pop(1.2)
-     console.log(anything)
+     console.log(food.pop())
+     
+     console.log(num.pop())
+     
+     console.log(colors.pop())
+     
+     console.log(anything.pop())
 
 
 //e
