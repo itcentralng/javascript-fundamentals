@@ -49,9 +49,9 @@ if (array.toString() == string) {
 
 
   if (array[0] == string[0]) {
-    console.log('the same as the first character');
+    console.log('same as the first character');
   } else {
-    console.log('not the same as the first character');
+    console.log('notsame as the first character');
   }
 
 
