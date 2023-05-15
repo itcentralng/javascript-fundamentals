@@ -26,7 +26,7 @@ switch (2) {
 
 num = 3
 num2 = 8
-greater = num > num2?  num:num2
+greater = num > num2 ?  num:num2
 console.log(greater)
 
 
