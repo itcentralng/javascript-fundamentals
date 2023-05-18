@@ -103,19 +103,4 @@
 //     }
 //     console.log(sum)
 
-num =5
-fac = 1;
-for(i = 1; i <= num; i++){
-    fac *=i
-    console.log(fac)
-}
-
-const number = 5;
-let factorial = 1;
-
-for (let i = 1; i <= number; i++) {
-  factorial *= i;
-}
-
-console.log("Factorial of", number, ":", factorial);
 
